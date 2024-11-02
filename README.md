@@ -15,6 +15,7 @@ This is a simple Pygame project where a ball bounces off a shrinking circle, cre
 ## Requirements
 
 - Python 3.x
+- pygame (only for the non-exe version)
 
 ## Installation
 
