@@ -18,4 +18,4 @@ This is a simple Pygame project where a ball bounces off a shrinking circle, cre
 
 ## Installation
 
-Clone this repository or download the rar file.
+Clone this repository or download the rar/zip file.
